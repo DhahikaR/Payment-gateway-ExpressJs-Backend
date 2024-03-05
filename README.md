@@ -30,4 +30,4 @@ Start the server
 
 ## API Reference
 
-Here are some main api usage, more details can be found in [routes] https://github.com/DhahikaR/payment-gateway-ExpressJs/tree/main/src/routes
+Here are some main api usage, more details can be found in [routes](https://github.com/DhahikaR/payment-gateway-ExpressJs/tree/main/src/routes)

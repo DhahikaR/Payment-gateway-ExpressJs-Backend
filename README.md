@@ -1,4 +1,4 @@
-# Node Js Payment Gateway Midtrans
+# Node Js Payment Gateway Midtrans Backend
 
 This is a sample REST API of using Snap Midtrans payment using Node Js and Express Js. This code use Prisma ORM to manage MySQL database.
 
